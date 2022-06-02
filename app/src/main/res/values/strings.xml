@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalStorage</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="enter">Enter</string>
+</resources>
